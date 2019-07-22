@@ -1,4 +1,4 @@
-/Users/drankin/Dropbox/RankinFiles/work/SwiftSSDP/SwiftSSDP/SSDPDiscovery.swift:266:26: Use of undeclared type 'GCDAsyncUdpSocketDelegate'//
+//
 //  CocoaAsyncSocket.h
 //  CocoaAsyncSocket
 //
