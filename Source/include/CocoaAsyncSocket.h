@@ -1,4 +1,4 @@
-//
+/Users/drankin/Dropbox/RankinFiles/work/SwiftSSDP/SwiftSSDP/SSDPDiscovery.swift:266:26: Use of undeclared type 'GCDAsyncUdpSocketDelegate'//
 //  CocoaAsyncSocket.h
 //  CocoaAsyncSocket
 //
@@ -14,5 +14,5 @@ FOUNDATION_EXPORT double cocoaAsyncSocketVersionNumber;
 //! Project version string for CocoaAsyncSocket.
 FOUNDATION_EXPORT const unsigned char cocoaAsyncSocketVersionString[];
 
-#import <GCDAsyncSocket.h>
-#import <GCDAsyncUdpSocket.h>
+#import <include/GCDAsyncSocket.h>
+#import <include/GCDAsyncUdpSocket.h>
